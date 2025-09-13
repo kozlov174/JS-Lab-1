@@ -1,0 +1,14 @@
+.grid-container {
+            display: grid;
+            grid-template-columns: repeat(3, auto);
+            grid-template-rows: repeat(2, auto);
+        }
+
+.card {
+    background-color: white;
+    border-radius: 8px;
+    border: 2px solid #000000;
+    margin: 5px;
+    text-align: center;
+
+}
